@@ -5,7 +5,7 @@
     "email": "chadallard@outlook.com"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_editor": "assets/iframe.html"
