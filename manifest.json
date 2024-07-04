@@ -1,0 +1,26 @@
+{
+  "name": "Swap Requester",
+  "author": {
+    "name": "Chad Allard",
+    "email": "chadallard@outlook.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_editor": "assets/iframe.html"
+    }
+  },
+  "parameters": [
+    {
+      "name": "domains",
+      "type": "text",
+      "required": false,
+      "secure": false,
+      "description": "Comma separated list of domains to automatically swap if they are requester",
+      "default": ""
+    }
+  ],
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
