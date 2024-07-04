@@ -13,7 +13,7 @@ It can also be set up to automatically swap the requester from specific email do
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/chadallardswap-requester-zendesk.git
+    git clone https://github.com/chadallard/Swap-Requester-Zendesk.git
     ```
 
 2. Navigate to the app directory:
