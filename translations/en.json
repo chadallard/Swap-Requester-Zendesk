@@ -3,6 +3,12 @@
     "name": "Swap Requester",
     "short_description": "Easily swap the current requester with another CC collaborator",
     "long_description": "This app allows you to easily swap the current requester with another collaborator on the ticket. This is useful when the requester is not the person who is actually discussing the issue.",
-    "installation_instructions": "Simply click install. Once installed, you can click the app icon in the ticket reply tray to swap the requester."
+    "installation_instructions": "Simply click install. Once installed, you can click the app icon in the ticket reply tray to swap the requester.",
+    "parameters":{
+      "domains": {
+        "label": "Auto-swapped Domains",
+        "helpText": "Comma separated list of email domains that will be automatically swapped out of the requester field upon loading ticket."
+      }
+    }
   }
 }
