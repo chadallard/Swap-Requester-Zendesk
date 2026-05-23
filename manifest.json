@@ -2,7 +2,8 @@
   "name": "Swap Requester",
   "author": {
     "name": "Chad Allard",
-    "email": "chadallard@outlook.com"
+    "email": "chadallard@outlook.com",
+    "url": "https://github.com/chadallard"
   },
   "defaultLocale": "en",
   "private": false,
